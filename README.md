@@ -122,4 +122,4 @@ Both of us test the game and commit to the repo.
 
 ## Gameplay Video
 
-- A gameplay video link will be added here when available.
+https://drive.google.com/file/d/17qvkBjwoiEk8J0TfuWNedIILljGULxzO/view?usp=sharing
