@@ -1,0 +1,15 @@
+Third party assets used in Escape the Clocktower
+All free / public domain (CC0) unless noted.
+
+Poly Haven (CC0) - https://polyhaven.com
+  Models: grandfather clock, bookshelf, desk drawer, tables, chairs, lamps, clocks,
+  pocket watch, books, candlestick, suitcase, cabinets, tool chest, crates, wrenches,
+  barrel stove, pipes, lanterns, barrels, ladder
+  Textures: old wooden floor, decrepit wallpaper, damaged plaster, castle brick,
+  old stone wall, rusty metal, wood plank wall, roof planks, metal grate, medieval wood
+
+Kenney (CC0) - https://kenney.nl
+  Furniture Kit, RPG Audio, Impact Sounds
+
+Gear Pack by Elegant Crow - https://opengameart.org/content/gear-pack
+  (credit not required, given anyway)
